@@ -23,6 +23,6 @@ if (appElem) {
   `;
 } else {
 	alert(
-		"Sorry, our website is experiencing problem, please call 234 / 3424 34 34."
+		"Sorry, our website is experiencing problems, please call 234 / 3424 34 34."
 	);
 }
